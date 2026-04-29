@@ -40,7 +40,7 @@ const Header = () => {
             component="div"
             sx={{ fontStyle: "italic" }}
           >
-            By Kristoffer Stobbe
+            By Warren Du
           </Typography>
         </div>
         <div style={{ width: 75 }} />
